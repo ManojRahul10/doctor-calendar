@@ -1,14 +1,22 @@
-# Clinic Appointment Calendar
+# Doctor Appointment Calendar
 
-This is a responsive frontend-only React app for clinic staff to manage appointments. It features:
+A simple responsive appointment calendar built with React and Material UI.
 
-- Calendar view for the current month
-- Filter appointments by doctor and patient
-- Add/Delete appointment dialogs
-- Responsive design for desktop & mobile
+## 🔧 Features
+- Mock login
+- Monthly calendar view
+- Appointment filtering (doctor/patient)
+- Add/delete appointments
 
-## Run the project
+## 🚀 Live Demo
+https://manojrahul10.github.io/doctor-calendar
 
+## 🛠 Tech Stack
+React, Material UI
+
+## 📦 Setup
 ```bash
+git clone https://github.com/manojrahul10/doctor-calendar.git
+cd doctor-calendar
 npm install
 npm start
