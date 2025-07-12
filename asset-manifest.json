@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doctor-calendar/static/css/main.f59e428b.css",
+    "main.js": "/doctor-calendar/static/js/main.71970759.js",
+    "static/js/453.cb17574a.chunk.js": "/doctor-calendar/static/js/453.cb17574a.chunk.js",
+    "index.html": "/doctor-calendar/index.html",
+    "main.f59e428b.css.map": "/doctor-calendar/static/css/main.f59e428b.css.map",
+    "main.71970759.js.map": "/doctor-calendar/static/js/main.71970759.js.map",
+    "453.cb17574a.chunk.js.map": "/doctor-calendar/static/js/453.cb17574a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f59e428b.css",
+    "static/js/main.71970759.js"
+  ]
+}
