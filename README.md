@@ -10,6 +10,8 @@ A simple responsive appointment calendar built with React and Material UI.
 
 ## 🚀 Live Demo
 https://manojrahul10.github.io/doctor-calendar
+mail: staff@clinic.com
+pass: 123456
 
 ## 🛠 Tech Stack
 React, Material UI
